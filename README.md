@@ -128,7 +128,3 @@ This repository package contains an inference-ready model, but the model was pro
   - `LICENSE`
 - Attribution and notices:
   - `NOTICE`
-
-Why not Creative Commons here:
-- CC licenses are generally not recommended for software code.
-- Apache-2.0 is a better fit for code and keeps attribution/notice requirements.
