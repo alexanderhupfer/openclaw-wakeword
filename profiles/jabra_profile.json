@@ -1,0 +1,22 @@
+{
+  "input_device": 5,
+  "output_device": 4,
+  "threshold": 0.36,
+  "input_gain": 20.0,
+  "cooldown_sec": 3.0,
+  "check_interval_sec": 0.2,
+  "vad_rms_threshold": 0.004,
+  "vad_hangover_sec": 0.35,
+  "vote_window": 4,
+  "vote_required": 2,
+  "adaptive_threshold": true,
+  "adaptive_percentile": 95.0,
+  "adaptive_margin": 0.04,
+  "adaptive_min": 0.28,
+  "adaptive_max": 0.62,
+  "adaptive_warmup_sec": 20.0,
+  "adaptive_min_samples": 40,
+  "adaptive_window": 400,
+  "pre_roll_sec": 1.0,
+  "post_roll_sec": 2.0
+}

@@ -1,0 +1,15 @@
+{
+  "events_path": "/Volumes/Crucial X8/podscan_openclaw/shadow_mode/jabra/events.jsonl",
+  "trigger_count": 23,
+  "window_hours": 0.17994299802515243,
+  "triggers_per_hour": 127.81825496085744,
+  "score_p50": 0.43444833159446716,
+  "score_p90": 0.5609713792800903,
+  "score_p99": 0.5891560316085815,
+  "dynamic_threshold_p50": 0.3400000035762787,
+  "labels": {
+    "true_positive": 7,
+    "false_positive": 14,
+    "unknown": 2
+  }
+}

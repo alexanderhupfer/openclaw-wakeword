@@ -1,0 +1,3 @@
+# Runtime shadow logs produced by demo runs
+shadow_sample/runtime/
+.DS_Store
