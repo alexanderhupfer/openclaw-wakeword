@@ -103,8 +103,8 @@ This repository package contains an inference-ready model, but the model was pro
 - Confirmed `fp` events are fed back as hard negatives for retraining and threshold refinement.
 
 ## Source Material Stats
-- Podscan transcript-backed source episode pool:
-  - `1251` episodes (`podscan_export/openclaw_episodes_with_transcripts.jsonl`)
+- Source episode pool:
+  - `1251` episodes
 - Corpus-negative generation snapshot (`v3 negscale` run):
   - `48,000` negative clips
   - `3s` per clip
